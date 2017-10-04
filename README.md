@@ -1,2 +1,2 @@
-# MLEN
-Machine Learning Engineering Nanodegree
+# MLND
+Machine Learning Engineering Nanodegree by Udacity
